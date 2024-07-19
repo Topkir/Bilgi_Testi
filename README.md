@@ -1,3 +1,4 @@
+Widgetler / Teknolojiler:
 - Class Kullanımı
 - Abstraction (Soyutlama)
 - Encapsulation (Paketler)
